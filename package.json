@@ -1,0 +1,17 @@
+{
+  "name": "uni-boys-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\""
+  },
+  "author": "https://github.com/medallyon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "fs-extra": "^8.1.0"
+  }
+}
